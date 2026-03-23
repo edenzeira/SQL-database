@@ -1,13 +1,12 @@
-# 🛒 SPL Assignment 4 – BGU Mart Supermarket Management System
+# 🛒 Mart Supermarket Management System
 
 This Python + SQLite3 project simulates a full management system for a supermarket chain.  
-It was developed as part of the **SPL course** at Ben-Gurion University.
 
 ---
 
 ## 🧭 Overview
 
-BGU Mart is a lightweight database-backed system to manage:
+Mart is a lightweight database-backed system to manage:
 - Employees and branches
 - Suppliers and product inventory
 - Sales and delivery activities
